@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=M, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<div style=" width: 320px; height: 568px;background: #FFE0E0">
+    <header>
+        <img style="  width: 320px; height: 218px;" src="file:///D:/UNIVALI/6%20periodo/design%20de%20interfaces/pet%20app/animarket-01.png" alt=""> </header>
+    <div> <button style="position: absolute; 
+        top: 160px;
+        left: 110px; 
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 45px;
+        /* or 375% */
+
+        text-align: center;
+
+        color: #F08481;
+        border: none;
+        cursor: pointer;
+         background-color:#FFE0E0 ;">Criar nova conta</button></div><!--new account-->
+    <div> <a href="https://accounts.google.com/AddSession/signinchooser?hl=pt-BR&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fclient%3Dopera%26q%3Dgmail%26sourceid%3Dopera%26ie%3DUTF-8%26oe%3DUTF-8&ec=GAlAAQ&flowName=GlifWebSignIn&flowEntry=AddSession"
+         style="text-decoration: none;
+         font-size: 15px;
+         font-family: Arial, Helvetica, sans-serif;
+         background-color: #FFFFFF;
+         color: #9E9E9E;
+         border-radius: 27px;
+         position: absolute;
+         left: 80px;
+         width: 180px;
+         height: 30px;
+          "><img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-icon-png-transparent-background-osteopathy-16.png" style=" width:20px; position: relative; top: 5px; padding-left: 5px; font-family: Arial, Helvetica, sans-serif; " alt=""> Criar com o Google </a></div><!--google enter-->
+    <div> <a href="https://www.facebook.com/?stype=lo&jlou=Aff7vZYo4oljXS5updwTifi8CbQqhXs--W7CixO-_SKwAYi_IotGNVwH5EBHRQqNOaiFSneZX-7RF7vh-4hLFl69sUXNCZOnZqgsMqr7UjeslA&smuh=9362&lh=Ac9iBFb121uTtT7-wcw"
+     style=" 
+         text-decoration: none;
+         font-size: 15px;
+         font-family: Arial, Helvetica, sans-serif;
+         background-color: #2d5ff5 ; 
+         color: white;
+         border-radius: 27px;
+         position: relative;
+         top: 40px;
+         left: 75px;
+         width: 200px;
+         height: 30px;">
+          <img src="https://i0.wp.com/fenavist.org.br/wp-content/uploads/2018/05/facebook-icon-white.png" 
+          style="width: 15px;
+          position: relative;
+          top: 0px;
+          padding-left: 5px;"
+alt="">      Criar com o Facebook</a></div><!--facebook enter-->
+    <div style="position:relative ;
+    top: 60px;"> <h1 style="       font-family: Arial, Helvetica, sans-serif;
+                        font-style: normal;
+                        font-weight: 400;
+                        font-size: 12px;
+                        line-height: 15px;
+                        text-align: center;
+                        color: #F08481;">Ou registre com seu e-mail</h1>
+        <div><input style="border-radius: 27px;  margin-left: 45px; width: 220px; border: none;height: 20px; "type="text"  name="" id="" placeholder="E-mail"></div>
+        <div><input style="border-radius: 27px; margin-top: 8px;  margin-left: 45px; width: 220px; border: none;height: 20px;" type="text" name="" id="" placeholder="Nome completo"></div>
+        <div><input style="border-radius: 27px; margin-top: 8px;  margin-left: 45px; width: 220px; border: none;height: 20px;" type="number" name="" id="" placeholder="Nº de celular"></div>
+        <div><input style="border-radius: 27px; margin-top: 8px; margin-left: 45px; width: 220px; border: none;height: 20px;" type="password" name="" id="" placeholder="Senha"></div>
+
+    <div> <input style="width: 199px;
+    color: white;
+    cursor: pointer;
+        position: relative;
+        top: 20px;
+        left: 50px;
+        border: none;
+        height: 25px;
+        background: #9932CC;
+        border-radius: 60px" type="submit" name="" id="" value="CADASTRAR"></div><!--cadastro-->
+</div>
+</body>
+</html>
